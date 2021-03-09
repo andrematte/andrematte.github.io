@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André</h1>
 <h4 align="center">An aspiring Data Scientist and Machine Learning Engineer from Brazil.</h3>
 
-- 🔭 I’m currently pursuing my Master's Degree in **Applied Computing, with focus on Artificial Intelligence**
+- 🔭 I’m currently pursuing my Master's Degree in **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
