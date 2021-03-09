@@ -2,6 +2,7 @@
 <h4 align="center">An aspiring Data Scientist and Machine Learning Engineer from Brazil.</h3>
 
 - 🔭 I’m currently pursuing my Master's Degree in **Machine Learning**
+- 📝 My Thesis is about COVID-19 underreporting in Brazil
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
