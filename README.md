@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm André</h1>
 <h4 align="center">A Data Scientist and Machine Learning Engineer from Brazil.</h3>
 
+***
+**What I'm doing right now:**
 - 🔭 I’m currently pursuing my Master's Degree in **Machine Learning**
 - 📝 My Thesis is about COVID-19 underreporting in Brazil
 
