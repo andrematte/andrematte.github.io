@@ -3,8 +3,8 @@
 
 ***
 **What I'm doing right now:**
-- 🔭 I’m currently pursuing my PhD in **Machine Learning**
-- 📝 Currently investigating COVID-19 underreporting in Brazil
+- 🔭 Pursuing my PhD in **Machine Learning**
+- 📝 Investigating COVID-19 underreporting in Brazil
 
 ***
 **Passionate about:**
