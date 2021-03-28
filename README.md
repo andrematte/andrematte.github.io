@@ -3,8 +3,8 @@
 
 ***
 **What I'm doing right now:**
-- 🔭 I’m currently pursuing my Master's Degree in **Machine Learning**
-- 📝 My Thesis is about COVID-19 underreporting in Brazil
+- 🔭 I’m currently pursuing my PhD in **Machine Learning**
+- 📝 Currently investigating COVID-19 underreporting in Brazil
 
 ***
 **Passionate about:**
@@ -14,7 +14,8 @@
 
 **Academic:**
 - 🎓 Bachelor's Degree in Communications Engineering
-- 🎓 Master's Degree in Machine Learning (**In Progress**)
+- 🎓 Master's Degree in Machine Learning 
+- 🎓 PhD in Machine Learning (**In Progress**)
 
 **Connect with me:**
 <p><a href="https://twitter.com/_andrematte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_andrematte" height="30" width="40" /></a>
