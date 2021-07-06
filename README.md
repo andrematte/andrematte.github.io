@@ -17,6 +17,3 @@
 - 🎓 Master's Degree in Machine Learning 
 - 🎓 PhD in Machine Learning (**In Progress**)
 
-**Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/andrematte/)
-- [Twitter](https://twitter.com/_andrematte)
