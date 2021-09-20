@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h4 align="center">A Data Scientist and Machine Learning Engineer from Brazil.</h3>
 
 ***
 **What I'm doing right now:**
 - 🔭 Pursuing my PhD in **Machine Learning**
-- 📝 Investigating COVID-19 underreporting in Brazil
+- 👁‍🗨 Developing Computer Vision solutions for Structural Health Monitoring of Tailing Dams
 
 ***
 **Passionate about:**
@@ -14,6 +13,7 @@
 
 **Academic:**
 - 🎓 Bachelor's Degree in Communications Engineering
-- 🎓 Master's Degree in Machine Learning 
+- 🎓 Master's Degree in Machine Learning
 - 🎓 PhD in Machine Learning (**In Progress**)
 
+![Snake animation](https://github.com/andrematte/andrematte/output/github-contribution-grid-snake.svg)
