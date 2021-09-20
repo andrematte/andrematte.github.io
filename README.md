@@ -16,4 +16,4 @@
 - 🎓 Master's Degree in Machine Learning
 - 🎓 PhD in Machine Learning (**In Progress**)
 
-![Snake animation](https://github.com/andrematte/andrematte/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/andrematte/andrematte/blob/output/github-contribution-grid-snake.svg)
