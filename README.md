@@ -16,12 +16,8 @@
 **Passionate about**
 - 📈 Data Science
 - 🤖 Machine Learning
+- 👾 Video Games
 - 🌐 Language Learning (🇧🇷🇺🇸🇯🇵)
-
-**Academic**
-- 🎓 Bachelor's Degree in Communications Engineering
-- 🎓 Master's Degree in Machine Learning
-- 🎓 PhD in Machine Learning (**In Progress**)
 
 ***
 **Languages and Technologies**
