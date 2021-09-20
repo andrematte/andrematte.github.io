@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm André</h1>
 
+<!-- <div>
+ <a href="https://github.com/TaniziaFagundes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrematte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrematte&layout=compact&langs_count=8&theme=dracula"/>
+</div> -->
+
 ***
 **What I'm doing right now:**
 - 🔭 Pursuing my PhD in **Machine Learning**
