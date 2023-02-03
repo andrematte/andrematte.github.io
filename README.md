@@ -13,7 +13,7 @@
 - 👁‍🗨 Developing Machine Learning and Computer Vision solutions for the Structural Health Monitoring of tailing dams via drone imagery
 
 ***
-**Passionate about**
+**Interested in:**
 - 📈 Data Science
 - 🤖 Machine Learning
 - 👾 Video Games
