@@ -10,7 +10,7 @@
 ***
 **What I'm doing right now**
 - 🔭 Pursuing my PhD in **Machine Learning**
-- 👁‍🗨 Developing Machine Learning and Computer Vision solutions for the Structural Health Monitoring of tailing dams via drone imagery
+- 👁‍🗨 Developing Machine Learning and Computer Vision solutions for the Structural Health Monitoring of dams via multispectral drone imagery
 
 ***
 **Interested in:**
