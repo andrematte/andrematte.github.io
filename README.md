@@ -16,6 +16,7 @@
 **Interested in:**
 - 📈 Data Science
 - 🤖 Machine Learning
+- 👁️‍🗨️ Computer Vision
 - 👾 Video Games
 - 🌐 Language Learning (🇧🇷🇺🇸🇯🇵)
 
