@@ -71,7 +71,8 @@ extra:
   generator: false
   subtitle: "PhD Student @ Universidade Federal do Pará"
   bio: Machine Learning | Computer Vision | Data Analysis
-  avatar: assets/avatar.png
+  # avatar: assets/avatar.png
+  avatar: https://github.com/andrematte.png
   socials:
     - github: https://github.com/andrematte
     - linkedin: https://linkedin.com/in/andrematte
