@@ -1,8 +1,8 @@
 site_name: André Mattos
 site_url: "https://andrematte.github.io"
 site_description: "Website de André Mattos"
-repo_url: "https://github.com/andrematte/andrematte"
-repo_name: "andrematte/andrematte"
+repo_url: "https://github.com/andrematte/andrematte.github.io"
+repo_name: "andrematte/andrematte.github.io"
 edit_uri: "tree/main/docs"
 
 theme:
