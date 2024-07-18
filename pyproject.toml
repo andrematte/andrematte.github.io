@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "andrematte"
+version = "0.1.0"
+description = "My landing page, blog and portfolio."
+authors = ["Andre Mattos <carlosandrematte@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs-material-extensions = "^1.3.1"
+
+
+[tool.poetry.group.docs.dependencies]
+mkdocs-material = "^9.5.29"
+
+
+[tool.poetry.group.dev.dependencies]
+taskipy = "^1.13.0"
+
+[tool.taskipy.tasks]
+docs = "mkdocs serve --open -w ."
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

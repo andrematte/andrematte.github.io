@@ -1,0 +1,96 @@
+site_name: André Mattos
+site_url: "https://andrematte.github.io"
+site_description: "Website de André Mattos"
+repo_url: "https://github.com/andrematte/andrematte"
+repo_name: "andrematte/andrematte"
+edit_uri: "tree/main/docs"
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  favicon: assets/favicon.png
+
+  icon:
+    repo: material/github
+    logo: material/robot-happy
+
+  font:
+    text: Lato
+    code: JetBrains Mono
+
+  features:
+    # - navigation.focus
+    # - navigation.instant.progress
+    - navigation.tabs
+    - navigation.sections
+    - navigation.tracking
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: #2E6CCC
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: blue grey
+      accent: #2E6CCC
+
+plugins:
+  - search
+  - privacy
+  - blog:
+      blog_dir: .
+      post_url_date_format: yyyy
+      post_url_format: "posts/{file}"
+      pagination_per_page: 5
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  cli: "cd ~/andrematte"
+  generator: false
+  subtitle: "PhD Student @ Universidade Federal do Pará"
+  bio: Machine Learning | Computer Vision | Data Analysis
+  avatar: assets/avatar.png
+  socials:
+    - github: https://github.com/andrematte
+    - linkedin: https://linkedin.com/in/andrematte
+    - lattes: http://lattes.cnpq.br/5642339206700236
+    - email: mailto:carlosandrematte@gmail.com
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/andrematte
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/andrematte
+    - icon: fontawesome/solid/user-graduate
+      link: http://lattes.cnpq.br/5642339206700236
+    - icon: fontawesome/solid/envelope
+      link: mailto:carlosandrematte@gmail.com
+
+
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
