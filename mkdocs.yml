@@ -8,7 +8,7 @@ edit_uri: "tree/main/docs"
 theme:
   name: material
   language: en
-  custom_dir: overrides
+  custom_dir: docs/overrides
   favicon: assets/favicon.png
 
   icon:
@@ -76,6 +76,7 @@ extra:
   socials:
     - github: https://github.com/andrematte
     - linkedin: https://linkedin.com/in/andrematte
+    - website: https://andrematte.github.io
     - lattes: http://lattes.cnpq.br/5642339206700236
     - email: mailto:carlosandrematte@gmail.com
   social:
