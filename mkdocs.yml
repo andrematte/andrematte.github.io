@@ -50,11 +50,19 @@ theme:
 plugins:
   - search
   - privacy
+  - tags
   - blog:
       blog_dir: .
       post_url_date_format: yyyy
       post_url_format: "posts/{file}"
       pagination_per_page: 5
+  # - rss:
+  #     match_path: docs/posts/.* 
+  #     date_from_meta:
+  #       as_creation: date
+  #     categories:
+  #       - categories
+  #       - tags 
 
 markdown_extensions:
   - tables
@@ -89,6 +97,10 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:carlosandrematte@gmail.com
 
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
 
 
 extra_css:

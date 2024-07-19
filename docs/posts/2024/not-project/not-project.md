@@ -1,13 +1,13 @@
 ---
-title: "Hello World!"
+title: "Not Project!"
 date: 
-  created: 2024-07-17
-  updated: 2024-07-18
+  created: 2024-07-13
+  updated: 2024-07-13
 description: "Hello World!"
 authors:
   - andrematte
 categories:
-    - Project
+    - Misc
 comments: false
 ---
 
