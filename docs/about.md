@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 ---
 
 # :wave_tone1: Hi, I'm André

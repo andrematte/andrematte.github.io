@@ -7,7 +7,7 @@ description: "Hello World!"
 authors:
   - andrematte
 categories:
-    - Project
+    - Misc
 comments: false
 ---
 
