@@ -11,15 +11,21 @@ title: About Me
 
 ## Interested in:
 
-- :bar_chart: Data Science
-- :robot: Machine Learning
-- :eye_in_speech_bubble: Computer Vision
-- :space_invader: Video Games
-- :globe_with_meridians: Language Learning (:flag_br: :flag_us: :flag_jp:)
+<div class="grid cards" markdown>
+
+- :bar_chart:  Data Science
+- :robot:  Machine Learning
+- :eye_in_speech_bubble:  Computer Vision
+- :space_invader:  Video Games
+- :globe_with_meridians:  Language Learning → :flag_br:  :flag_us:  :flag_jp: 
+
+</div>
+
+
 
 ## Languages and Technologies
 
-<div style="display: inline_block">
+<div class="grid cards" markdown>
  <img align="center" alt="PY" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
