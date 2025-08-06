@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://andrematte.github.io/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/about/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/about/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/about/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/projects/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/projects/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/projects/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/archive/2021/001-scraping-covid19/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/archive/2021/001-scraping-covid19/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/archive/2021/001-scraping-covid19/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/archive/2021/002-covid19-underreporting/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/archive/2021/002-covid19-underreporting/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/archive/2021/002-covid19-underreporting/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/archive/2024/001-opencv-workshop/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/archive/2024/001-opencv-workshop/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/archive/2024/001-opencv-workshop/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/pt/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/pt/about/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/about/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/pt/projects/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/projects/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/pt/archive/2021/001-scraping-covid19/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/archive/2021/001-scraping-covid19/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/archive/2021/001-scraping-covid19/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/pt/archive/2021/002-covid19-underreporting/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/archive/2021/002-covid19-underreporting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/archive/2021/002-covid19-underreporting/"/>
+    </url>
+    <url>
+        <loc>https://andrematte.github.io/pt/archive/2024/001-opencv-workshop/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://andrematte.github.io/pt/archive/2024/001-opencv-workshop/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrematte.github.io/archive/2024/001-opencv-workshop/"/>
+    </url>
+</urlset>
