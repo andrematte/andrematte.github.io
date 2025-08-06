@@ -16,5 +16,5 @@ comments: false
 
 # Workshop: Image Processing with Python and OpenCV
 
-Em Construção
+Work in Progress
 

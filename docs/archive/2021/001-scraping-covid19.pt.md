@@ -1,5 +1,5 @@
 ---
-title: "Scraping COVID-19 Mortality Data"
+title: "Scraping de dados de mortalidade por COVID-19"
 date: 
   created: 2021-08-11
   updated: 2025-08-06
@@ -14,7 +14,7 @@ comments: false
 ---
 
 
-# Scraping COVID-19 Mortality Data
+# Scraping de dados de mortalidade por COVID-19
 
 Em Construção
 

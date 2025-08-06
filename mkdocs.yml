@@ -50,13 +50,16 @@ theme:
 plugins:
   - search
   - privacy
-  - blog:
-      blog_dir: .
-      post_url_date_format: yyyy
-      post_url_format: "posts/{file}"
-      pagination_per_page: 5
-      blog_toc: true
-      archive_pagination: false
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pt
+          name: Português
+          build: true
 
 markdown_extensions:
   - tables
@@ -73,7 +76,9 @@ extra:
   cli: "cd ~/andrematte"
   generator: false
   subtitle: "PhD Candidate @ Universidade Federal do Pará"
+  subtitle_pt: "Doutorando @ Universidade Federal do Pará"
   bio: Machine Learning | Computer Vision | Data Analysis
+  bio_pt: Aprendizado de Máquina | Visão Computacional | Análise de Dados
   # avatar: assets/avatar.png
   avatar: https://github.com/andrematte.png
   socials:

@@ -14,12 +14,12 @@
                     {{ config.site_name }}
                 </h1>
     
-                {% if config.extra.subtitle %}
-                <p class="landing-subtitle" {% if config.extra.bio %}style="font-weight:bold;"{% endif %}>{{ config.extra.subtitle }}</p>
+                {% if config.extra.subtitle_pt %}
+                <p class="landing-subtitle" {% if config.extra.bio %}style="font-weight:bold;"{% endif %}>{{ config.extra.subtitle_pt }}</p>
                 {% endif %}
     
-                {% if config.extra.bio %}
-                <p class="landing-bio">{{ config.extra.bio }}</p>
+                {% if config.extra.bio_pt %}
+                <p class="landing-bio">{{ config.extra.bio_pt }}</p>
                 {% endif %}
     
                 {% if config.extra.socials %}
@@ -75,8 +75,8 @@
                 {% endif %}
 
                 <div class="landing-buttons">
-                    <a href="{{ '/about/' | url }}" class="md-button md-button--primary" style="width: 160px; text-align: center;">About me</a>
-                    <a href="{{ '/projects/' | url }}" class="md-button md-button--primary" style="width: 160px; text-align: center;">Projects</a>
+                    <a href="{{ '/about/' | url }}" class="md-button md-button--primary" style="width: 160px; text-align: center;">Sobre mim</a>
+                    <a href="{{ '/projects/' | url }}" class="md-button md-button--primary" style="width: 160px; text-align: center;">Projetos</a>
                 </div>
 
             </div>

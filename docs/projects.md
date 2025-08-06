@@ -1,8 +1,6 @@
 ---
-title: Portfolio
+title: Projects
 ---
-
-
 
 # My Project Portfolio
 
