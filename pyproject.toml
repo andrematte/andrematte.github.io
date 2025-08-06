@@ -1,26 +1,23 @@
-[tool.poetry]
-name = "andrematte"
+[project]
+name = "andrematte-github-io"
 version = "0.1.0"
 description = "My landing page, blog and portfolio."
-authors = ["Andre Mattos <carlosandrematte@gmail.com>"]
-readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.6.16",
+    "mkdocs-material-extensions>=1.3.1",
+    "mkdocs-rss-plugin>=1.17.3",
+]
+authors = [{ name = "Andre Mattos", email = "carlosandrematte@gmail.com" }]
 
-[tool.poetry.dependencies]
-python = "^3.12"
-mkdocs-material-extensions = "^1.3.1"
-mkdocs-rss-plugin = "^1.15.0"
-
-
-[tool.poetry.group.docs.dependencies]
-mkdocs-material = "^9.5.29"
-
-
-[tool.poetry.group.dev.dependencies]
-taskipy = "^1.13.0"
+[dependency-groups]
+dev = [
+    "taskipy>=1.13.0",
+]
+docs = [
+    "mkdocs-material>=9.5.29",
+]
 
 [tool.taskipy.tasks]
 docs = "mkdocs serve --open -w ."
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
