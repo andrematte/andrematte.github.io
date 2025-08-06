@@ -17,9 +17,6 @@ dependencies = [
 dev = [
     { name = "taskipy" },
 ]
-docs = [
-    { name = "mkdocs-material" },
-]
 
 [package.metadata]
 requires-dist = [
@@ -31,7 +28,6 @@ requires-dist = [
 
 [package.metadata.requires-dev]
 dev = [{ name = "taskipy", specifier = ">=1.13.0" }]
-docs = [{ name = "mkdocs-material", specifier = ">=9.5.29" }]
 
 [[package]]
 name = "babel"

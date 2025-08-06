@@ -8,7 +8,7 @@ edit_uri: "tree/main/docs"
 theme:
   name: material
   language: en
-  custom_dir: docs/overrides
+  custom_dir: overrides
   favicon: assets/favicon.png
 
   icon:
@@ -55,6 +55,8 @@ plugins:
       post_url_date_format: yyyy
       post_url_format: "posts/{file}"
       pagination_per_page: 5
+      blog_toc: true
+      archive_pagination: false
 
 markdown_extensions:
   - tables
@@ -77,9 +79,9 @@ extra:
   socials:
     - github: https://github.com/andrematte
     - linkedin: https://linkedin.com/in/andrematte
-    - website: https://andrematte.github.io
+    # - website: https://andrematte.github.io
     - lattes: http://lattes.cnpq.br/5642339206700236
-    - email: mailto:carlosandrematte@gmail.com
+    - email: mailto:carlos.mattos@itec.ufpa.br
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/andrematte
@@ -88,12 +90,12 @@ extra:
     - icon: fontawesome/solid/user-graduate
       link: http://lattes.cnpq.br/5642339206700236
     - icon: fontawesome/solid/envelope
-      link: mailto:carlosandrematte@gmail.com
+      link: mailto:carlos.mattos@itec.ufpa.br
 
-nav:
-  - Home: index.md
-  - About Me: about.md
-  - Projects: projects.md
+# nav:
+#   - Home: index.md
+#   - About Me: about.md
+#   - Projects: projects.md
 
 
 extra_css:

@@ -15,9 +15,7 @@ authors = [{ name = "Andre Mattos", email = "carlosandrematte@gmail.com" }]
 dev = [
     "taskipy>=1.13.0",
 ]
-docs = [
-    "mkdocs-material>=9.5.29",
-]
 
 [tool.taskipy.tasks]
 docs = "mkdocs serve --open -w ."
+
