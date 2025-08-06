@@ -4,20 +4,12 @@ title: Projetos
 
 # Meu Portfólio de Projetos
 
-<!-- <div class="card">
-		<div class="header">
-			<div class="image">
-				<span class="tag">Art</span>
-			</div>
-			<div class="date">
-				<span>6 min ago</span>
-			</div>
-		</div>
-		<div class="info">
-			<a rel="noopener noreferrer" href="#" class="block">
-				<span class="title">Facere ipsa nulla corrupti praesentium </span>
-			</a>
-			<p class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat, excepturi. Lorem ipsum dolor sit ...</p>
-		</div>
-	</div> -->
+<!-- From Uiverse.io by SouravBandyopadhyay --> 
+<!-- <div class="notification">
+    <div class="notiglow"></div>
+    <div class="notiborderglow"></div>
+    <div class="notititle">Welcome To Uiverse</div>
+    <div class="notibody">Contribute to Open Source UI Elements
+    <li class="tag__name">Css</li></div>
+</div> -->
 
